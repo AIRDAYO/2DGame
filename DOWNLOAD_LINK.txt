@@ -1,0 +1,12 @@
+ดาวน์โหลดเกมได้ที่ลิงก์ด้านล่าง:
+
+https://drive.google.com/file/d/1zmZSpgnF0dpYoF-NgU4YgGjuHesLdnVe/view?usp=sharing
+
+วิธีดาวน์โหลด:
+1. คลิกที่ลิงก์ด้านบน
+2. หากลิงก์นำไปที่ Google Drive หรือ Dropbox ให้กดปุ่ม "ดาวน์โหลด" (Download)
+3. เมื่อได้ไฟล์ .zip แล้ว ให้แตกไฟล์และเปิดไฟล์ YourGameName.exe เพื่อเล่นเกม
+
+หมายเหตุ:
+- เกมนี้รองรับเฉพาะบนระบบปฏิบัติการ Windows
+- หาก Windows แสดงคำเตือน ให้คลิก “เพิ่มเติม (More info)” และเลือก “เรียกใช้งานอยู่ดี (Run anyway)”
