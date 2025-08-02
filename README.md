@@ -34,3 +34,9 @@
 หากต้องการสอบถามข้อมูลเพิ่มเติมเกี่ยวกับโปรเจกต์นี้ กรุณาติดต่อได้ที่:
 
 อีเมล: Kosinair@gmail.com
+
+## ตัวอย่างภาพจากเกม
+
+![ฉากในเกมที่ 1](game-screenshots/scene1.png)
+![ฉากในเกมที่ 2](game-screenshots/scene2.png)
+![ฉากในเกมที่ 2](game-screenshots/scene3.png)
